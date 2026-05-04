@@ -17,6 +17,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^4.18.2",
+    "mernproject": "file:..",
     "mongoose": "^7.0.3"
   },
   "devDependencies": {
